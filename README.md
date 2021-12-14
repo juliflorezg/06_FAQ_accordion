@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution URL](https://www.frontendmentor.io/solutions/faq-accordion-card-using-css-and-vanilla-js-8q6NhFFwX)
+- Live Site URL: [Live site URL](https://juliflorezg.github.io/06_FAQ_accordion/)
 
 ## My process
 
@@ -144,6 +144,5 @@ document.addEventListener('click', e => {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@juliflorezg](https://www.frontendmentor.io/profile/juliflorezg)
 - Linkedin - [Julian Florez](https://www.linkedin.com/in/julian-florez-585161153/)
